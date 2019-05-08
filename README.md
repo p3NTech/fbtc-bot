@@ -6,6 +6,7 @@
 
 - [Content](#content)
 - [Usage](#usage)
+- [Config](#config)
 - [Disclaimer](#disclaimer)
 - [Authors](#authors)
 - [License](#license)
@@ -15,7 +16,12 @@
 * Open file [fbtc-bot.js](fbtc-bot.js) file and developer console on [freebitco.in](https://freebitco.in) website.
 * Paste code from file and click enter.
 
-You can change the bot's speed by changing **CONFIG_SPEED** variable.
+## Config
+
+| Variable     | Description                                        | Default value          |
+| :---         | :---                                               | :---                   |
+| CONFIG_SPEED | Bot's betting speed - (1000/CONFIG_SPEED) bets/sec | 1 (1 bet per second)   |
+| DEFAULT_BET  | Default bet value                                  | 0.00000001 (1 satoshi) |
 
 ## Disclaimer
 
