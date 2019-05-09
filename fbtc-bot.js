@@ -1,6 +1,6 @@
 var CONFIG_SPEED=1
 var CONFIG_DEFAULT_BET=0.00000001
-var CONFIG_INTELLIGENT_BET=true
+var CONFIG_INTELLIGENT_BET=false
 
 function sleep(ms){return new Promise(resolve=>setTimeout(resolve,ms));}
 function bet_hi(){document.getElementById('double_your_btc_bet_hi_button').click()}
