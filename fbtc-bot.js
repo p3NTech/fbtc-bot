@@ -11,6 +11,7 @@ function reset_bet_amount(){document.getElementById('double_your_btc_stake').val
 function double_bet_amount(){document.getElementById('double_your_btc_2x').click()}
 
 function RefreshPageAfterFreePlayTimerEnds(){}
+reset_bet_amount()
 while(true){
 	last=get_code()
 	if(Math.round(Math.random())){bet_hi()}
