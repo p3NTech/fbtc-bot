@@ -10,6 +10,7 @@ function get_code(){return document.getElementsByClassName('large-1 small-1 colu
 function reset_bet_amount(){document.getElementById('double_your_btc_stake').value=(CONFIG_INTELLIGENT_BET?document.getElementById('balance').innerHTML/1000:CONFIG_DEFAULT_BET)}
 function double_bet_amount(){document.getElementById('double_your_btc_2x').click()}
 
+function RefreshPageAfterFreePlayTimerEnds(){}
 while(true){
 	last=get_code()
 	if(Math.round(Math.random())){bet_hi()}
