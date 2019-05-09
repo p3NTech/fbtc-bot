@@ -18,11 +18,11 @@
 
 ## Config
 
-| Variable               | Description                                                         | Default value          |
-| :---                   | :---                                                                | :---                   |
-| CONFIG_SPEED           | Bot's betting speed - (1000/CONFIG_SPEED) bets/sec                  | 1 (1 bet per second)   |
-| CONFIG_DEFAULT_BET     | Default bet value                                                   | 0.00000001 (1 satoshi) |
-| CONFIG_INTELLIGENT_BET | Intelligent bet mode (automatic default bet, 1000 satoshi required) | false                  |
+| Variable               | Description                                                          | Default value          |
+| :---                   | :---                                                                 | :---                   |
+| CONFIG_SPEED           | Bot's betting speed - (1000/CONFIG_SPEED) bets/sec                   | 1 (1 bet per second)   |
+| CONFIG_DEFAULT_BET     | Default bet value                                                    | 0.00000001 (1 satoshi) |
+| CONFIG_INTELLIGENT_BET | Intelligent bet mode (automatic default bet, 30000 satoshi required) | false                  |
 
 ## Disclaimer
 
