@@ -26,9 +26,7 @@
 
 ## Disclaimer
 
-**FBTC-Bot** is not hacking software and **does not** guarantee that you will win anything.
-It is only automation tool and if you will be too greedy or you don't have enough satoshi, you can easily lose everything.
-**FBTC-Bot** is only created for educational purposes and I am not responsible for any lose of money.
+**FBTC-Bot** was created for educational purposes and I'm not taking responsibility for any lose of money.
 
 ## Authors
 
