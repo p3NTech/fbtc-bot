@@ -9,6 +9,7 @@
 - [Config](#config)
 - [Disclaimer](#disclaimer)
 - [Authors](#authors)
+- [Contact](#contact)
 - [License](#license)
 
 ## Usage
@@ -31,6 +32,10 @@
 ## Authors
 
 * **Michał Wróblewski** - Main Developer - [DeBos99](https://github.com/DeBos99)
+
+## Contact
+
+Discord: DeBos#3292
 
 ## License
 
