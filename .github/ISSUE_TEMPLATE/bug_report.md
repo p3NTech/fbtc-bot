@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Description**
+Clearly describe the problem.
+
 **Config**
 CONFIG_SPEED=
 CONFIG_DEFAULT_BET=
