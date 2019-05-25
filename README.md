@@ -1,5 +1,7 @@
 # FBTC-Bot
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **FBTC-Bot** is betting bot for [freebitco.in](https://freebitco.in) HiLo game.
 
 ## Content
