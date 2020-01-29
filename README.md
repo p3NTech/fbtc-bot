@@ -38,7 +38,7 @@
 
 ## Authors
 
-* **Michał \<DeBos\> Wróblewski** - Main Developer - [DeBos](https://gitlab.com/DeBos)
+* **Michał Wróblewski** - Main Developer - [DeBos](https://gitlab.com/DeBos)
 
 ## Contact
 
